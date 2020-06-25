@@ -1,0 +1,21 @@
+{
+    "name": "Julian Date Calendar",
+    "version": "1.0",
+    "description": "Calculate the current Julian Date",
+    "browser_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "images/ICON16.png",
+            "32": "images/ICON32.png",
+            "48": "images/ICON48.png",
+            "128": "images/ICON128.png"
+        }
+    },
+    "icons": {
+        "16": "images/ICON16.png",
+        "32": "images/ICON32.png",
+        "48": "images/ICON48.png",
+        "128": "images/ICON128.png"
+    },
+    "manifest_version": 2
+}
